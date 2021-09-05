@@ -3,7 +3,9 @@
 This repository holds artifacts from the 9/11 Geospatial Archive, a project of the Center for Geospatial Innovation. 
 
 Preliminary Assessment for a 9/11 Geospatial Archive
+
 By: Noreen Whysel
+
 For: NYC GeoCATS
 
 9/11 Geospatial Archive Assessment
