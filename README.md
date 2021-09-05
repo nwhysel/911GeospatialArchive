@@ -13,10 +13,10 @@ https://docs.google.com/spreadsheets/d/1Gbpz1WXIjgWrzlEZzTbqT4NrbBVUY61EU8usclT1
 
 Included in this spreadsheet is item level description for materials that have been collected by the research team, archivist Noreen Whysel and Center for Geospatial Innovation Director Alan Leidner. Electronic materials have been saved to a Dropbox account.
 
-What institutions hold 9/11 geospatial artifacts?
-Who is responsible for the artifacts at their institution?
-Format (digital/physical) of the existing artifacts
-Physical condition of the artifacts
-Ownership the artifacts (can the artifacts be donated or duplicated)
-Sensitivity of the materials (public, confidential, secret)
-Institution’s retention policy for the artifacts
+* What institutions hold 9/11 geospatial artifacts?
+* Who is responsible for the artifacts at their institution?
+* Format (digital/physical) of the existing artifacts
+* Physical condition of the artifacts
+* Ownership the artifacts (can the artifacts be donated or duplicated)
+* Sensitivity of the materials (public, confidential, secret)
+* Institution’s retention policy for the artifacts
