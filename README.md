@@ -39,4 +39,4 @@ Note: We intend to include materials that are appropriate for incusion in a geog
 
 <h2>Funding</h2>
 
-A preliminary study was completed with some support from the Fund for the City of New York (office space) and Alan Leidner (additional consulting and financial support). We are in the process of seeking funding to continue this work. If you are interested in supporting us, please contact Noreen Whysel at nwhysel@hotmail.com.
+A preliminary study was completed with some support from the Fund for the City of New York (office space) and Alan Leidner (additional consulting and financial support). We are in the process of seeking funding to continue this work. If you are interested in supporting us, or if you rinstitution is interested in sponsoring us as a principal investigator for a research grant, please contact Noreen Whysel at nwhysel@hotmail.com.
