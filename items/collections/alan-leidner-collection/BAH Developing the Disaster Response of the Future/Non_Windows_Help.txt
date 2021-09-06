@@ -1,0 +1,18 @@
+For Non-Windows users who need
+to Run this presentation manually:
+
+Navigate to the "Supporting Files"
+directory and Launch the "Viewer.html"
+file in your web browser.
+
+* Please Note, you WILL need to have
+the latest version of Windows Media
+Player installed on your computer.
+The installer can be found in the
+"Windows Media Player" directory on
+this CD-ROM.
+
+If you have any problems, please contact 
+the SRC at: 703.902.5568 or by email:
+src@bah.com.
+

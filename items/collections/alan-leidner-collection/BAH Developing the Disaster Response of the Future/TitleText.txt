@@ -1,0 +1,3 @@
+&TitleText=<FONT SIZE="24">Developing the Disaster Response of the Future</FONT><br>
+<FONT COLOR="#FFFFFF">Sponsored by: Geographic Information Systems and Mission Assurance TFGs</FONT><br>
+<FONT COLOR="#FFFFFF">December 6, 2007</FONT>&

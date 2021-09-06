@@ -1,0 +1,35 @@
+<html>
+<head>
+<!-- saved from url=(0014)about:internet -->
+<script src="SupportingFiles/Scripts/SfKernel.js" language="JavaScript"></script>
+<script language="JavaScript">
+function LoadIndexFile()
+{
+	var playerType = new PlayerDetect().GetPlayerType();
+	switch(playerType)
+	{
+				case PlayerType.WM64:
+			window.location = "SupportingFiles/ViewerWM64.html";
+			break;
+		case PlayerType.WM64Lite:
+			window.location = "SupportingFiles/ViewerWM64Lite.html";
+			break;
+		case PlayerType.WM7:
+			window.location = "SupportingFiles/ViewerWM7.html";
+			break;
+		case PlayerType.GeckoWM64:
+			window.location = "SupportingFiles/ViewerGeckoWM64.html";
+			break;
+		case PlayerType.GeckoWM7:
+			window.location = "SupportingFiles/ViewerGeckoWM7.html";
+			break;
+
+		default:
+			alert('Unknown playerType: ' + playerType);
+	}
+}
+</Script>
+</head>
+<body onload='LoadIndexFile();'>
+</body>
+</html>
