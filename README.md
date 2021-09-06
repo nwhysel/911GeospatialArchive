@@ -29,9 +29,11 @@ Included in this spreadsheet is item level description for materials that have b
 
 You may contribute to this project in two ways:
 
-1. Submit assets such as photos, maps, shapefiles, presentations, recollections and audio/video recordings for consideration to the following form:
+1. Submit assets such as photos, maps, shapefiles, presentations, recollections and audio/video recordings for consideration to the following Google form: https://forms.gle/YDJj86hAbKrNwC528
+2. If your items are sensitive and you do not wish to submit via a Google product, we have a dropbox where you can send files. Use this request form to submit to our Dropbox: https://www.dropbox.com/request/BYWbGSvr3NflneqlJ2xt
+3. Create a folder within the /items/collections/ directory of this repository. You may need to request details or permission from nwhysel@hotmail.com. The /sample-collection/ folder within that directory has a template for an asset spreadsheet and an About page for your collection.
 
-2. Create a folder within the /items/collections/ directory of this repository. You may need to request details or permission from nwhysel@hotmail.com. The /sample-collection/ folder within that directory has a template for an asset spreadsheet and an About page for your collection.
+We are asking if you submit files via any of these methods to also inclue a description of the items included. We have created an item list template here for you to submit along with any electronic artifacts: https://docs.google.com/spreadsheets/d/1qYlyX62VcQidA0iZmPDSMYgcI3x0_zTin9CxZcCX2Fk/edit?usp=sharing
 
 We are creating a GitHub community around this collection effort. The community will adhere to GitHub's Community Guidelines: https://docs.github.com/en/github/site-policy/github-community-guidelines
 
